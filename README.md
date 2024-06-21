@@ -49,11 +49,11 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - Produced a multitude of 2D and 3D schematics for an array of LED products.
 
 ## 🏅Awards and Honors
-- **2<sup>nd</sup> prize** of 18th South China University of Technology “Challenge Cup”
+- **2<sup>nd</sup> prize** of 18<sup>th</sup> South China University of Technology Challenge Cup
 - **Outstanding Graduates Award** of South China University of Technology, 2022
 - **Outstanding Individual** in social practice, 2022
 - **Second-class scholarship**, 2021
-- **1<sup>st</sup> prize** of 16th Guangdong “Chanllenge Cup”
+- **1<sup>st</sup> prize** of 16<sup>th</sup> Guangdong Chanllenge Cup
 - **Progress award** scholarship, 2020
 
 ## 📝Publications
