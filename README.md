@@ -14,7 +14,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 **High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
 - Proposed a magnetic-vibration composite stamping process to prepare a high-aspect-ratio and high-transmittance quantum dot (QD) pixel frame, which led to a **4.5-fold** increasment in the maximum photoluminescence intensity of pixelated QD converter.
 - Assembled micro- and nanoscale waveguide structures through inkjet printing and vacuum deposition, obtaining a high-resolution color converter with optical absorption heterogeneity that can be used for high optical efficiency optoelectronic devices.
-- Contributed to a publication<sup>[3]</sup> in **_Journal of Materials Processing Technology_** and a conference paper<sup>[8]</sup> in 2021 22nd International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft<sup>[2]</sup> submitted to **_Flexmat_** is currently under review.
+- Contributed to a publication<sup>[3]: #ref3[3]</sup> in **_Journal of Materials Processing Technology_** and a conference paper<sup>[8]</sup> in 2021 22nd International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft<sup>[2]</sup> submitted to **_Flexmat_** is currently under review.
 
 ![AAM converter](/assets/AAM.png)
 
