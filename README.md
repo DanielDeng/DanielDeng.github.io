@@ -66,3 +66,11 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 7. **Zihao Deng**, Jiexin Li, Jiayong Liang, Jiayi Li, Jiasheng Li, Xinrui Ding (Supervisor), Zongtao Li (Supervisor). Solid-liquid mixing-state organic lenses for deep-ultraviolet light-emitting diodes to enhance the light-extraction efficiency[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4. {#ref7}
 8. Jiayong Liang, Jiexin Li, Zihao Deng, Yihua Qiu, Zongtao Li (Supervisor), Jiasheng Li. Enhanced Optical Performance and Thermal Stability of Quantum Dot Converters for Laser Source[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4. {#ref8}
 
+[1]: #ref1
+[2]: #ref2
+[3]: #ref3
+[4]: #ref4
+[5]: #ref5
+[6]: #ref6
+[7]: #ref7
+[8]: #ref8
