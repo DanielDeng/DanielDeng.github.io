@@ -7,8 +7,8 @@ Supervisor: Prof. Zongtao Li, Prof. Xinrui Ding and Dr. Jiasheng Li.
 Research Interests: Optical sensing technology; Intelligent Manufacturing; Light management of optoelectronic devices; Soft Robotics
 
 ## Education							       		
-  - M.S., Mechanical Engineering	| South China University of Technology | (09/2022 - 07/2025 (Expected))	 			        		
-  - B.S., Mechanical Engineering  | South China University of Technology | (09/2018 - 07/2022)
+  - Master of Mechanical Engineering	| South China University of Technology (09/2022 - 07/2025 (Expected))	 			        		
+  - Bachelor of Mechanical Engineering  | South China University of Technology (09/2018 - 07/2022)
 
 ## Research Experience
 **High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
