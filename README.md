@@ -6,11 +6,11 @@ Supervisor: Prof. Zongtao Li, Prof. Xinrui Ding and Dr. Jiasheng Li.
 
 Research Interests: Optical sensing technology; Intelligent Manufacturing; Light management of optoelectronic devices; Soft Robotics
 
-## Education							       		
+## 🎓Education							       		
   - Master of Mechanical Engineering	| South China University of Technology (09/2022 - 07/2025 (Expected))	 			        		
   - Bachelor of Mechanical Engineering  | South China University of Technology (09/2018 - 07/2022)
 
-## Research Experience
+## 💡Research Experience
 **High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
 - Proposed a magnetic-vibration composite stamping process to prepare a high-aspect-ratio and high-transmittance quantum dot (QD) pixel frame, which led to a 4.5-fold increasment in the maximum photoluminescence intensity of pixelated QD converter.
 - Assembled micro- and nanoscale waveguide structures through inkjet printing and vacuum deposition, obtaining a high-resolution color converter with optical absorption heterogeneity that can be used for high optical efficiency optoelectronic devices.
@@ -38,7 +38,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
 - Analyzed the spectra of soft robots in various states, extracted key feature points such as peak wavelength and intensity, and achieved recognition of optical features-motion states.
 
-## Internship
+## 💻Internship
 **Prospective Technology for LED Development @ Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd (_07/2023 – 07/2024_)**
 - Optimized the optical lens for wide-angle Package on Board (POB) LEDs, resulting in an increase of the light emission angle beyond 30 degrees.
 - Analyzed the impact of geometric structure and packaging layer size on the optical performance of LEDs in a certain Huawei project, providing theoretical support for the optimization process of LED devices.
@@ -48,7 +48,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - Solved the problem of thermal concentration in the third-generation semiconductor GaN devices by separating islands of them.
 - Produced a multitude of 2D and 3D schematics for an array of LED products.
 
-## Awards and Honors
+## 🏅Awards and Honors
 - Second prize of 18th South China University of Technology “Challenge Cup”
 - 2022 Outstanding Graduates Award of South China University of Technology
 - 2022 Outstanding individual in social practice
@@ -56,7 +56,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - First prize of 16th Guangdong “Chanllenge Cup”
 - 2020 Progress award scholarship
 
-## Publications
+## 📝Publications
 1. Xinrui Ding (Supervisor), **Zihao Deng**, Jiasheng Li, Ruining Qian, Bowen Duan, Zongtao Li (Supervisor). Improving Edge Quality of Liquid Crystal Display 3D Printing using Local Dimming method [J]. **Advances in Manufacturing**. (under review)
 2. Jiexin Li*, Xinrui Ding* (Supervisor), Yuzhi Shi*, Jiasheng Li, **Zihao Deng**, Jiayong Qiu, Jinhui Zhang, Wei Luo, Guanwei Liang, Long Zhao, Yong Tang, Aiqun Liu, Zongtao Li (Supervisor). Bioinspired ultrathin photonic colour convertors for highly efficient micro-light-emitting diodes [J]. **FlexMat**. (under review)
 3. Zongtao Li (Supervisor), Jiayong Qiu, Jiasheng Li, Qiliang Zhao, Ruixiang Qian, **Zihao Deng**. Manufacturing a high-transmittance quantum-dot pixel frame using magnetic field and vibration field composite stamping[J]. **Journal of Materials Processing Technology**, 2023, 313: 117873.
