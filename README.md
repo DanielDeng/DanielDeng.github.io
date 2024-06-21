@@ -1,16 +1,57 @@
-# Postgraduate student in South China University of Technology (SCUT)
+# Postgradutae Student
 
-### Education
-Mechanical Engineering, M.S, 2022.9-2025.7 (expected)
-Mechanical Engineering, B.S, 2018.9-2022.7
-### Intern
-Engineer @ Foshan NationStar
--project 1
--project 2
+#### Research Interests: Optical sensing technology; Intelligent Manufacturing; Light management of optoelectronic devices; Soft Robotics
 
-### Research Experience
-Optical Performance of LEDs
+## Education							       		
+- M.S., Mechanical Engineering	| South China University of Technology (_09/2022 - 07/2025(_Expected_)_)	 			        		
+- B.S., Mechanical Engineering  | South China University of Technology (_09/2018 - 07/2022_)
 
-### Publications
-- 1
-- 2
+## Research Experience
+**High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
+- Proposed a magnetic-vibration composite stamping process to prepare a high-aspect-ratio and high-transmittance quantum dot (QD) pixel frame, which led to a 4.5-fold increasment in the maximum photoluminescence intensity of pixelated QD converter.
+- Assembled micro- and nanoscale waveguide structures through inkjet printing and vacuum deposition, obtaining a high-resolution color converter with optical absorption heterogeneity that can be used for high optical efficiency optoelectronic devices.
+- Contributed to a publication[3] in **Journal of Materials Processing Technology** and a conference paper[8] in 2021 22nd International Conference on Electronic Packaging Technology (**ICEPT**), while a manuscript draft[2] submitted to **Flexmat** is currently under review.
+
+**Improvement of Optical Performance of Deep Ultraviolet LED devices @ South China University of Techonology (_09/2020 - Present_)**
+- Developed solid-liquid hybrid state organic lenses used for deep ultraviolet LEDs whose crossed-link network guarantee a high transmittance rate and excellent deep-UV resistance, achieving a 52.5% enhancement in radiant power compared to conventional quartz lens.
+- Designed a series of free-form lenses that can be used to optimize the spatial light distribution based on feedback algorithms.
+- Proposed the utilization of local dimming method in conjunction with free-form lenses to improved the inherent light leakage issue in liquid crystal displays (LCDs) , enhancing the forming accuracy by up to 81.56% of UV-photocuring 3D printing process.
+- Contributed to a publication[4] in **Advanced Photonic Research** and a conference paper[7] in 2021 22nd International Conference on Electronic Packaging Technology (**ICEPT**), while a manuscript draft[1] submitted to **Advances in Manufacturing** is currently under review.
+
+**Optical Effects and Mechanisms related to Quantum Dots @ South China University of Techonology (_04/2020 – Present_)**
+- Proposed an optical absorption heterogeneity strategy to boost the photoluminescence intensity of QD thin films at high excitation state, a record-high luminous efficiency per unit thickness of 1600 lm W-1mm-1 was achieved.
+- Introduced SiO2 particles with scattering effect, leading to an increased utilization of excition light which improved the conversion energy of quantum dots, and the luminous efficiency of LED packaging with hemispherical lenses was raised by 11.08%.
+- Revealed the mechanism of low efficiency in high concentration of QDs experimentally and theoretically.
+- Contributed to a publication[5] in **IEEE TRANSACTIONS ON ELECTRON DEVICES** and a publication[6] in **IEEE JOURNAL OF QUANTUM ELECTRONICS**, while a manuscript draft[2] submitted to **Flexmat** is currently under review.
+
+**Optical Sensing Technology for Soft Robotics @ South China University of Techonology (_07/2023 – Present_)**
+- Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
+- Analyzed the spectra of soft robots in various states, extracted key feature points such as peak wavelength and intensity, and achieved recognition of optical features-motion states.
+
+## Internship
+**Prospective Technology for LED Development @ Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd (_07/2023 – 07/2024_)**
+- Optimized the optical lens for wide-angle Package on Board (POB) LEDs, resulting in an increase of the light emission angle beyond 30 degrees.
+- Analyzed the impact of geometric structure and packaging layer size on the optical performance of LEDs in a certain Huawei project, providing theoretical support for the optimization process of LED devices.
+- Proposed a scheme for optimizing the heat dissipation efficiency of the third-generation semiconductor SiC power modules, and verified the effectiveness by manufacturing the physical products.
+- Developed details optical simulation guidelines which were used to instruct engineers in using relevant softwares for theoretical analysis and structural optimaztion.
+- Conducted a thermal analysis to investigate the reason of invalid gold wires in a specific automotive-LED, and a feasible solution at the structural level without additional cost was provided.
+- Solved the problem of thermal concentration in the third-generation semiconductor GaN devices by separating islands of them.
+- Produced a multitude of 2D and 3D schematics for an array of LED products.
+
+## Awards and Honors
+- Second prize of 18th South China University of Technology “Challenge Cup”
+- 2022 Outstanding Graduates Award of South China University of Technology
+- 2022 Outstanding individual in social practice
+- 2021 Second-class scholarship
+- First prize of 16th Guangdong “Chanllenge Cup”
+- 2020 Progress award scholarship
+
+## Publications
+1. Xinrui Ding (Supervisor), **Zihao Deng**, Jiasheng Li, Ruining Qian, Bowen Duan, Zongtao Li (Supervisor). Improving Edge Quality of Liquid Crystal Display 3D Printing using Local Dimming method [J]. **Advances in Manufacturing**. (under review)
+2. Jiexin Li*, Xinrui Ding* (Supervisor), Yuzhi Shi*, Jiasheng Li, **Zihao Deng**, Jiayong Qiu, Jinhui Zhang, Wei Luo, Guanwei Liang, Long Zhao, Yong Tang, Aiqun Liu, Zongtao Li (Supervisor). Bioinspired ultrathin photonic colour convertors for highly efficient micro-light-emitting diodes [J]. **FlexMat**. (under review)
+3. Zongtao Li (Supervisor), Jiayong Qiu, Jiasheng Li, Qiliang Zhao, Ruixiang Qian, **Zihao Deng**. Manufacturing a high-transmittance quantum-dot pixel frame using magnetic field and vibration field composite stamping[J]. **Journal of Materials Processing Technology**, 2023, 313: 117873.
+4. Zongtao Li (Supervisor), Jiexin Li, **Zihao Deng**, Yihua Qiu, Jiasheng Li, Yikai Yuan, Liang Xu, Xinrui Ding (Supervisor). Solid–Liquid Hybrid‐State Organic Lens for Highly Efficient Deep Ultraviolet Light‐Emitting Diodes[J]. **Advanced Photonics Research**, 2022, 3(5): 2100211.
+5. Zongtao Li (Supervisor), Jiexin Li, **Zihao Deng**, Jiayong Liang, Jiasheng Li. Unraveling the origin of low optical efficiency for quantum dot white light-emitting diodes from the perspective of aggregation-induced scattering effect[J]. **IEEE Transactions on Electron Devices**, 2021, 68(4): 1738-1745.
+6. Zongtao Li (Supervisor), Jiexin Li, Jiasheng Li, **Zihao Deng**, Yuehua Deng. Scattering effect on optical performance of quantum dot white light-emitting diodes incorporating SiO₂ nanoparticles[J]. **IEEE Journal of Quantum Electronics**, 2020, 56(3): 1-9.
+7. **Zihao Deng**, Jiexin Li, Jiayong Liang, Jiayi Li, Jiasheng Li, Xinrui Ding (Supervisor), Zongtao Li (Supervisor). Solid-liquid mixing-state organic lenses for deep-ultraviolet light-emitting diodes to enhance the light-extraction efficiency[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.
+8. Jiayong Liang, Jiexin Li, Zihao Deng, Yihua Qiu, Zongtao Li (Supervisor), Jiasheng Li. Enhanced Optical Performance and Thermal Stability of Quantum Dot Converters for Laser Source[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.
