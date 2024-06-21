@@ -1,6 +1,6 @@
 # Postgradutae Student
 
-#### Research Interests: Optical sensing technology; Intelligent Manufacturing; Light management of optoelectronic devices; Soft Robotics
+#### Research Interests: Optical sensing technology, Intelligent Manufacturing, Light management of optoelectronic devices, Soft Robotics
 
 ## Education							       		
 - M.S., Mechanical Engineering	| South China University of Technology (_09/2022 - 07/2025(_Expected_)_)	 			        		
