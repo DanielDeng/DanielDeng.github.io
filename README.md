@@ -1,10 +1,12 @@
-# Postgraduate Student
+# Curriculum Vitae
 
-#### Research Interests: Optical sensing technology, Intelligent Manufacturing, Light management of optoelectronic devices, Soft Robotics
+#### I am a postgraduate student at South China University of Technology (SCUT), in the Advanced Manufacturing Group for Functional Structure. Under the guidance of Prof.Zongtao Li, Prof. Xinrui Ding and Dr.Jiasheng Li.
+
+##### Research Interests: Optical sensing technology, Intelligent Manufacturing, Light management of optoelectronic devices, Soft Robotics
 
 ## Education							       		
-- M.S., Mechanical Engineering	| South China University of Technology (_ 09/2022 - 07/2025 (Expected)_)	 			        		
-- B.S., Mechanical Engineering  | South China University of Technology (_ 09/2018 - 07/2022 _)
+- M.S., Mechanical Engineering	| South China University of Technology (_09/2022 - 07/2025(Expected)_)	 			        		
+- B.S., Mechanical Engineering  | South China University of Technology (_09/2018 - 07/2022_)
 
 ## Research Experience
 **High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
