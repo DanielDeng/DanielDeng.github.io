@@ -14,7 +14,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 **High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
 - Proposed a magnetic-vibration composite stamping process to prepare a high-aspect-ratio and high-transmittance quantum dot (QD) pixel frame, which led to a 4.5-fold increasment in the maximum photoluminescence intensity of pixelated QD converter.
 - Assembled micro- and nanoscale waveguide structures through inkjet printing and vacuum deposition, obtaining a high-resolution color converter with optical absorption heterogeneity that can be used for high optical efficiency optoelectronic devices.
-- Contributed to a publication[3] in **_Journal of Materials Processing Technology_** and a conference paper[8] in 2021 22nd International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft[2] submitted to **_Flexmat_** is currently under review.
+- Contributed to a publication^[3]^ in **_Journal of Materials Processing Technology_** and a conference paper^[8]^ in 2021 22nd International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft^[2]^ submitted to **_Flexmat_** is currently under review.
 
 ![AAM converter](/assets/AAM.png)
 
@@ -22,15 +22,15 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - Developed solid-liquid hybrid state organic lenses used for deep ultraviolet LEDs whose crossed-link network guarantee a high transmittance rate and excellent deep-UV resistance, achieving a 52.5% enhancement in radiant power compared to conventional quartz lens.
 - Designed a series of free-form lenses that can be used to optimize the spatial light distribution based on feedback algorithms.
 - Proposed the utilization of local dimming method in conjunction with free-form lenses to improved the inherent light leakage issue in liquid crystal displays (LCDs) , enhancing the forming accuracy by up to 81.56% of UV-photocuring 3D printing process.
-- Contributed to a publication[4] in **_Advanced Photonic Research_** and a conference paper[7] in 2021 22nd International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft[1] submitted to **_Advances in Manufacturing_** is currently under review.
+- Contributed to a publication^[4]^ in **_Advanced Photonic Research_** and a conference paper^[7]^ in 2021 22nd International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft^[1]^ submitted to **_Advances in Manufacturing_** is currently under review.
 
 ![lens](/assets/SLHS lens.png)
 
 **Optical Effects and Mechanisms related to Quantum Dots @ South China University of Techonology (_04/2020 – Present_)**
-- Proposed an optical absorption heterogeneity strategy to boost the photoluminescence intensity of QD thin films at high excitation state, a record-high luminous efficiency per unit thickness of 1600 lm W-1mm-1 was achieved.
+- Proposed an optical absorption heterogeneity strategy to boost the photoluminescence intensity of QD thin films at high excitation state, a record-high luminous efficiency per unit thickness of 1600 lm W^-1^mm^-1^ was achieved.
 - Introduced SiO2 particles with scattering effect, leading to an increased utilization of excition light which improved the conversion energy of quantum dots, and the luminous efficiency of LED packaging with hemispherical lenses was raised by 11.08%.
 - Revealed the mechanism of low efficiency in high concentration of QDs experimentally and theoretically.
-- Contributed to a publication[5] in **_IEEE TRANSACTIONS ON ELECTRON DEVICES_** and a publication[6] in **_IEEE JOURNAL OF QUANTUM ELECTRONICS_**, while a manuscript draft[2] submitted to **_Flexmat_** is currently under review.
+- Contributed to a publication^[5]^ in **_IEEE TRANSACTIONS ON ELECTRON DEVICES_** and a publication^[6]^ in **_IEEE JOURNAL OF QUANTUM ELECTRONICS_**, while a manuscript draft^[2]^ submitted to **_Flexmat_** is currently under review.
 
 ![AIS](/assets/AIS.png)
 
