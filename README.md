@@ -1,10 +1,10 @@
-# Postgradutae Student
+# Postgraduate Student
 
 #### Research Interests: Optical sensing technology, Intelligent Manufacturing, Light management of optoelectronic devices, Soft Robotics
 
 ## Education							       		
-- M.S., Mechanical Engineering	| South China University of Technology (_09/2022 - 07/2025(_Expected_)_)	 			        		
-- B.S., Mechanical Engineering  | South China University of Technology (_09/2018 - 07/2022_)
+- M.S., Mechanical Engineering	| South China University of Technology (_ 09/2022 - 07/2025 (Expected)_)	 			        		
+- B.S., Mechanical Engineering  | South China University of Technology (_ 09/2018 - 07/2022 _)
 
 ## Research Experience
 **High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
@@ -12,17 +12,23 @@
 - Assembled micro- and nanoscale waveguide structures through inkjet printing and vacuum deposition, obtaining a high-resolution color converter with optical absorption heterogeneity that can be used for high optical efficiency optoelectronic devices.
 - Contributed to a publication[3] in **Journal of Materials Processing Technology** and a conference paper[8] in 2021 22nd International Conference on Electronic Packaging Technology (**ICEPT**), while a manuscript draft[2] submitted to **Flexmat** is currently under review.
 
+![AAM converter](/assets/AAM.png)
+
 **Improvement of Optical Performance of Deep Ultraviolet LED devices @ South China University of Techonology (_09/2020 - Present_)**
 - Developed solid-liquid hybrid state organic lenses used for deep ultraviolet LEDs whose crossed-link network guarantee a high transmittance rate and excellent deep-UV resistance, achieving a 52.5% enhancement in radiant power compared to conventional quartz lens.
 - Designed a series of free-form lenses that can be used to optimize the spatial light distribution based on feedback algorithms.
 - Proposed the utilization of local dimming method in conjunction with free-form lenses to improved the inherent light leakage issue in liquid crystal displays (LCDs) , enhancing the forming accuracy by up to 81.56% of UV-photocuring 3D printing process.
 - Contributed to a publication[4] in **Advanced Photonic Research** and a conference paper[7] in 2021 22nd International Conference on Electronic Packaging Technology (**ICEPT**), while a manuscript draft[1] submitted to **Advances in Manufacturing** is currently under review.
 
+![lens](/assets/SLHS lens.png)
+
 **Optical Effects and Mechanisms related to Quantum Dots @ South China University of Techonology (_04/2020 – Present_)**
 - Proposed an optical absorption heterogeneity strategy to boost the photoluminescence intensity of QD thin films at high excitation state, a record-high luminous efficiency per unit thickness of 1600 lm W-1mm-1 was achieved.
 - Introduced SiO2 particles with scattering effect, leading to an increased utilization of excition light which improved the conversion energy of quantum dots, and the luminous efficiency of LED packaging with hemispherical lenses was raised by 11.08%.
 - Revealed the mechanism of low efficiency in high concentration of QDs experimentally and theoretically.
 - Contributed to a publication[5] in **IEEE TRANSACTIONS ON ELECTRON DEVICES** and a publication[6] in **IEEE JOURNAL OF QUANTUM ELECTRONICS**, while a manuscript draft[2] submitted to **Flexmat** is currently under review.
+
+![AIS](/assets/AIS.png)
 
 **Optical Sensing Technology for Soft Robotics @ South China University of Techonology (_07/2023 – Present_)**
 - Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
