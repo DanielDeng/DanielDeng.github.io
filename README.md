@@ -17,7 +17,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - Contributed to a publication<sup>[3](#ref3)</sup> in **_Journal of Materials Processing Technology_** and a conference paper<sup>[8](#ref8)</sup> in 2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft<sup>[2](#ref2)</sup> submitted to **_Flexmat_** is currently under review.
 
 ![AAM](/assets/AAM.png)<br>
-Optical performances and micro-LED display application.
+<div style="text-align: center;">Optical performances and micro-LED display application.</div>
 
 **Improvement of Optical Performance of Deep Ultraviolet LED devices @ South China University of Techonology (_09/2020 - Present_)**
 - Developed solid-liquid hybrid state organic lenses used for deep ultraviolet LEDs whose crossed-link network guarantee a high transmittance rate and excellent deep-UV resistance, achieving a **52.5%** enhancement in radiant power compared to conventional quartz lens.
@@ -26,7 +26,7 @@ Optical performances and micro-LED display application.
 - Contributed to a publication<sup>[4](#ref4)</sup> in **_Advanced Photonic Research_** and a conference paper<sup>[7](#ref7)</sup> in 2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft<sup>[1](#ref1)</sup> submitted to **_Advances in Manufacturing_** is currently under review.
 
 ![lens](/assets/SLHS lens.png)<br>
-Fabrication method and high DUV transparency of Solid-liquid Hybrid-state composites.
+<div style="text-align: center;">Fabrication method and high DUV transparency of Solid-liquid Hybrid-state composites.</div>
 
 **Optical Effects and Mechanisms related to Quantum Dots @ South China University of Techonology (_04/2020 – Present_)**
 - Proposed an optical absorption heterogeneity strategy to boost the photoluminescence intensity of QD thin films at high excitation state, a record-high luminous efficiency per unit thickness of **1600 lm W<sup>-1</sup>mm<sup>-1</sup>** was achieved.
@@ -35,7 +35,7 @@ Fabrication method and high DUV transparency of Solid-liquid Hybrid-state compos
 - Contributed to a publication<sup>[5](#ref5)</sup> in **_IEEE TRANSACTIONS ON ELECTRON DEVICES_** and a publication<sup>[6](#ref6)</sup> in **_IEEE JOURNAL OF QUANTUM ELECTRONICS_**, while a manuscript draft<sup>[2](#ref2)</sup> submitted to **_Flexmat_** is currently under review.
 
 ![AIS](/assets/AIS.png)<br>
-Analysis of Aggregation-Induced Scattering Effect 
+<div style="text-align: center;">Analysis of Aggregation-Induced Scattering Effect </div>
 
 **Optical Sensing Technology for Soft Robotics @ South China University of Techonology (_07/2023 – Present_)**
 - Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
