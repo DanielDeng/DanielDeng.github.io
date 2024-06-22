@@ -16,7 +16,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - Assembled micro- and nanoscale waveguide structures through inkjet printing and vacuum deposition, obtaining a high-resolution color converter with optical absorption heterogeneity that can be used for high optical efficiency optoelectronic devices.
 - Contributed to a publication<sup>[3](#ref3)</sup> in **_Journal of Materials Processing Technology_** and a conference paper<sup>[8](#ref8)</sup> in 2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft<sup>[2](#ref2)</sup> submitted to **_Flexmat_** is currently under review.
 
-<div style="text-align: center;">
+![AAM](/assets/AAM.png)<br>
 Optical performances and micro-LED display application.
 
 **Improvement of Optical Performance of Deep Ultraviolet LED devices @ South China University of Techonology (_09/2020 - Present_)**
