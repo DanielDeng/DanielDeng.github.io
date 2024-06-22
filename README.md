@@ -19,6 +19,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 ![AAM](/assets/AAM.png)<br>
 <div style="text-align: center;">Optical performances and micro-LED display application.</div>
 
+
 **Improvement of Optical Performance of Deep Ultraviolet LED devices @ South China University of Techonology (_09/2020 - Present_)**
 - Developed solid-liquid hybrid state organic lenses used for deep ultraviolet LEDs whose crossed-link network guarantee a high transmittance rate and excellent deep-UV resistance, achieving a **52.5%** enhancement in radiant power compared to conventional quartz lens.
 - Designed a series of free-form lenses that can be used to optimize the spatial light distribution based on feedback algorithms.
@@ -28,6 +29,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 ![lens](/assets/SLHS lens.png)<br>
 <div style="text-align: center;">Fabrication method and high DUV transparency of Solid-liquid Hybrid-state composites.</div>
 
+
 **Optical Effects and Mechanisms related to Quantum Dots @ South China University of Techonology (_04/2020 – Present_)**
 - Proposed an optical absorption heterogeneity strategy to boost the photoluminescence intensity of QD thin films at high excitation state, a record-high luminous efficiency per unit thickness of **1600 lm W<sup>-1</sup>mm<sup>-1</sup>** was achieved.
 - Introduced SiO<sub>2</sub> particles with scattering effect, leading to an increased utilization of excition light which improved the conversion energy of quantum dots, and the luminous efficiency of LED packaging with hemispherical lenses was raised by **11.08%**.
@@ -36,6 +38,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 
 ![AIS](/assets/AIS.png)<br>
 <div style="text-align: center;">Analysis of Aggregation-Induced Scattering Effect </div>
+
 
 **Optical Sensing Technology for Soft Robotics @ South China University of Techonology (_07/2023 – Present_)**
 - Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
