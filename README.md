@@ -16,8 +16,10 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - Assembled micro- and nanoscale waveguide structures through inkjet printing and vacuum deposition, obtaining a high-resolution color converter with optical absorption heterogeneity that can be used for high optical efficiency optoelectronic devices.
 - Contributed to a publication<sup>[3](#ref3)</sup> in **_Journal of Materials Processing Technology_** and a conference paper<sup>[8](#ref8)</sup> in 2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft<sup>[2](#ref2)</sup> submitted to **_Flexmat_** is currently under review.
 
-![AAM converter](/assets/AAM.png)
+<div style="text-align: center;">
+![AAM converter](/assets/AAM.png)<br>
 Optical performances and micro-LED display application.
+</div>
 
 **Improvement of Optical Performance of Deep Ultraviolet LED devices @ South China University of Techonology (_09/2020 - Present_)**
 - Developed solid-liquid hybrid state organic lenses used for deep ultraviolet LEDs whose crossed-link network guarantee a high transmittance rate and excellent deep-UV resistance, achieving a **52.5%** enhancement in radiant power compared to conventional quartz lens.
@@ -25,8 +27,10 @@ Optical performances and micro-LED display application.
 - Proposed the utilization of local dimming method in conjunction with free-form lenses to improved the inherent light leakage issue in liquid crystal displays (LCDs) , enhancing the forming accuracy by up to **81.56%** of UV-photocuring 3D printing process.
 - Contributed to a publication<sup>[4](#ref4)</sup> in **_Advanced Photonic Research_** and a conference paper<sup>[7](#ref7)</sup> in 2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft<sup>[1](#ref1)</sup> submitted to **_Advances in Manufacturing_** is currently under review.
 
-![lens](/assets/SLHS lens.png)
+<div style="text-align: center;">
+![lens](/assets/SLHS lens.png)<br>
 Fabrication method and high DUV transparency of Solid-liquid Hybrid-state composites.
+</div>
 
 **Optical Effects and Mechanisms related to Quantum Dots @ South China University of Techonology (_04/2020 – Present_)**
 - Proposed an optical absorption heterogeneity strategy to boost the photoluminescence intensity of QD thin films at high excitation state, a record-high luminous efficiency per unit thickness of **1600 lm W<sup>-1</sup>mm<sup>-1</sup>** was achieved.
@@ -34,8 +38,10 @@ Fabrication method and high DUV transparency of Solid-liquid Hybrid-state compos
 - Revealed the mechanism of low efficiency in high concentration of QDs experimentally and theoretically.
 - Contributed to a publication<sup>[5](#ref5)</sup> in **_IEEE TRANSACTIONS ON ELECTRON DEVICES_** and a publication<sup>[6](#ref6)</sup> in **_IEEE JOURNAL OF QUANTUM ELECTRONICS_**, while a manuscript draft<sup>[2](#ref2)</sup> submitted to **_Flexmat_** is currently under review.
 
-![AIS](/assets/AIS.png)
+<div style="text-align: center;">
+![AIS](/assets/AIS.png)<br>
 Analysis of Aggregation-Induced Scattering Effect 
+</div>
 
 **Optical Sensing Technology for Soft Robotics @ South China University of Techonology (_07/2023 – Present_)**
 - Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
@@ -61,14 +67,14 @@ Analysis of Aggregation-Induced Scattering Effect
 
 ## 📝Publications
 <div style="text-align: justify;">
-1. Xinrui Ding (Supervisor), **Zihao Deng**, Jiasheng Li, Ruining Qian, Bowen Duan, Zongtao Li (Supervisor). Improving Edge Quality of Liquid Crystal Display 3D Printing using Local Dimming method [J]. **Advances in Manufacturing**. (under review)[detail information](#ref1)
-2. Jiexin Li<sup>*</sup>, Xinrui Ding<sup>*</sup> (Supervisor), Yuzhi Shi<sup>*</sup>, Jiasheng Li, **Zihao Deng**, Jiayong Qiu, Jinhui Zhang, Wei Luo, Guanwei Liang, Long Zhao, Yong Tang, Aiqun Liu, Zongtao Li (Supervisor). Bioinspired ultrathin photonic colour convertors for highly efficient micro-light-emitting diodes [J]. **FlexMat**. (under review)[detail information](#ref2)
-3. Zongtao Li (Supervisor), Jiayong Qiu, Jiasheng Li, Qiliang Zhao, Ruixiang Qian, **Zihao Deng**. Manufacturing a high-transmittance quantum-dot pixel frame using magnetic field and vibration field composite stamping[J]. **Journal of Materials Processing Technology**, 2023, 313: 117873.<https://doi.org/10.1016/j.jmatprotec.2023.117873>(#ref3)
-4. Zongtao Li (Supervisor), Jiexin Li, **Zihao Deng**, Yihua Qiu, Jiasheng Li, Yikai Yuan, Liang Xu, Xinrui Ding (Supervisor). Solid–Liquid Hybrid‐State Organic Lens for Highly Efficient Deep Ultraviolet Light‐Emitting Diodes[J]. **Advanced Photonics Research**, 2022, 3(5): 2100211.<https://doi.org/10.1002/adpr.202100211>(#ref4)
-5. Zongtao Li (Supervisor), Jiexin Li, **Zihao Deng**, Jiayong Liang, Jiasheng Li. Unraveling the origin of low optical efficiency for quantum dot white light-emitting diodes from the perspective of aggregation-induced scattering effect[J]. **IEEE Transactions on Electron Devices**, 2021, 68(4): 1738-1745.<https://doi.org.10.1109/TED.2021.3060698>(#ref5)
-6. Zongtao Li (Supervisor), Jiexin Li, Jiasheng Li, **Zihao Deng**, Yuehua Deng. Scattering effect on optical performance of quantum dot white light-emitting diodes incorporating SiO₂ nanoparticles[J]. **IEEE Journal of Quantum Electronics**, 2020, 56(3): 1-9.<https://doi.org.10.1109/JQE.2020.2986018>(#ref6)
-7. **Zihao Deng**, Jiexin Li, Jiayong Liang, Jiayi Li, Jiasheng Li, Xinrui Ding (Supervisor), Zongtao Li (Supervisor). Solid-liquid mixing-state organic lenses for deep-ultraviolet light-emitting diodes to enhance the light-extraction efficiency[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.<https://doi.org.10.1109/ICEPT52650.2021.9568078>(#ref7)
-8. Jiayong Liang, Jiexin Li, **Zihao Deng**, Yihua Qiu, Zongtao Li (Supervisor), Jiasheng Li. Enhanced Optical Performance and Thermal Stability of Quantum Dot Converters for Laser Source[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.<https://doi.org.10.1109/ICEPT52650.2021.9567922>(#ref8)
+1. Xinrui Ding (Supervisor), **Zihao Deng**, Jiasheng Li, Ruining Qian, Bowen Duan, Zongtao Li (Supervisor). Improving Edge Quality of Liquid Crystal Display 3D Printing using Local Dimming method [J]. **Advances in Manufacturing**. (under review)[detail information](#ref1)<br>
+2. Jiexin Li<sup>*</sup>, Xinrui Ding<sup>*</sup> (Supervisor), Yuzhi Shi<sup>*</sup>, Jiasheng Li, **Zihao Deng**, Jiayong Qiu, Jinhui Zhang, Wei Luo, Guanwei Liang, Long Zhao, Yong Tang, Aiqun Liu, Zongtao Li (Supervisor). Bioinspired ultrathin photonic colour convertors for highly efficient micro-light-emitting diodes [J]. **FlexMat**. (under review)[detail information](#ref2)<br>
+3. Zongtao Li (Supervisor), Jiayong Qiu, Jiasheng Li, Qiliang Zhao, Ruixiang Qian, **Zihao Deng**. Manufacturing a high-transmittance quantum-dot pixel frame using magnetic field and vibration field composite stamping[J]. **Journal of Materials Processing Technology**, 2023, 313: 117873.<https://doi.org/10.1016/j.jmatprotec.2023.117873>(#ref3)<br>
+4. Zongtao Li (Supervisor), Jiexin Li, **Zihao Deng**, Yihua Qiu, Jiasheng Li, Yikai Yuan, Liang Xu, Xinrui Ding (Supervisor). Solid–Liquid Hybrid‐State Organic Lens for Highly Efficient Deep Ultraviolet Light‐Emitting Diodes[J]. **Advanced Photonics Research**, 2022, 3(5): 2100211.<https://doi.org/10.1002/adpr.202100211>(#ref4)<br>
+5. Zongtao Li (Supervisor), Jiexin Li, **Zihao Deng**, Jiayong Liang, Jiasheng Li. Unraveling the origin of low optical efficiency for quantum dot white light-emitting diodes from the perspective of aggregation-induced scattering effect[J]. **IEEE Transactions on Electron Devices**, 2021, 68(4): 1738-1745.<https://doi.org.10.1109/TED.2021.3060698>(#ref5)<br>
+6. Zongtao Li (Supervisor), Jiexin Li, Jiasheng Li, **Zihao Deng**, Yuehua Deng. Scattering effect on optical performance of quantum dot white light-emitting diodes incorporating SiO₂ nanoparticles[J]. **IEEE Journal of Quantum Electronics**, 2020, 56(3): 1-9.<https://doi.org.10.1109/JQE.2020.2986018>(#ref6)<br>
+7. **Zihao Deng**, Jiexin Li, Jiayong Liang, Jiayi Li, Jiasheng Li, Xinrui Ding (Supervisor), Zongtao Li (Supervisor). Solid-liquid mixing-state organic lenses for deep-ultraviolet light-emitting diodes to enhance the light-extraction efficiency[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.<https://doi.org.10.1109/ICEPT52650.2021.9568078>(#ref7)<br>
+8. Jiayong Liang, Jiexin Li, **Zihao Deng**, Yihua Qiu, Zongtao Li (Supervisor), Jiasheng Li. Enhanced Optical Performance and Thermal Stability of Quantum Dot Converters for Laser Source[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.<https://doi.org.10.1109/ICEPT52650.2021.9567922>(#ref8)<br>
 </div>
 [1]: #id-ref1
 [2]: #id-ref2
