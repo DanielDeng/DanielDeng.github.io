@@ -1,8 +1,7 @@
 # Curriculum Vitae
 
-I am a postgraduate student at South China University of Technology (SCUT), in the Advanced Manufacturing Group for Functional Structure. 
-
-Supervisor: Prof. Zongtao Li, Prof. Xinrui Ding and Dr. Jiasheng Li.
+I am a postgraduate student at [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), in the Advanced Manufacturing Group for Functional Structure. I received my bachelor's degree from SCUT, and I was research intern in [Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd](https://www.nationstar.com/).
+Supervisor: [Prof. Zongtao Li](https://www2.scut.edu.cn/smae/2018/0523/c21153a302382/page.htm), [Prof. Xinrui Ding](https://www2.scut.edu.cn/smae/2019/0507/c21153a317165/page.htm) and Dr. Jiasheng Li.
 
 Research Interests: Optical sensing technology; Intelligent Manufacturing; Light management of optoelectronic devices; Soft Robotics
 
@@ -71,6 +70,9 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 6. Zongtao Li (Supervisor), Jiexin Li, Jiasheng Li, **Zihao Deng**, Yuehua Deng. Scattering effect on optical performance of quantum dot white light-emitting diodes incorporating SiO₂ nanoparticles[J]. **IEEE Journal of Quantum Electronics**, 2020, 56(3): 1-9.<https://doi.org.10.1109/JQE.2020.2986018>(#ref6)<br>
 7. **Zihao Deng**, Jiexin Li, Jiayong Liang, Jiayi Li, Jiasheng Li, Xinrui Ding (Supervisor), Zongtao Li (Supervisor). Solid-liquid mixing-state organic lenses for deep-ultraviolet light-emitting diodes to enhance the light-extraction efficiency[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.<https://doi.org.10.1109/ICEPT52650.2021.9568078>(#ref7)<br>
 8. Jiayong Liang, Jiexin Li, **Zihao Deng**, Yihua Qiu, Zongtao Li (Supervisor), Jiasheng Li. Enhanced Optical Performance and Thermal Stability of Quantum Dot Converters for Laser Source[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.<https://doi.org.10.1109/ICEPT52650.2021.9567922>(#ref8)<br>
+
+## 🏃‍♂‍Extracurricular Activities
+- **2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology @ School of Electronic Science and Engineering, Xiamen University, Xiamen China (_03/2021 – 09/2021_)**
 
 [1]: #id-ref1
 [2]: #id-ref2
