@@ -68,11 +68,28 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 4. Zongtao Li (Supervisor), Jiexin Li, **Zihao Deng**, Yihua Qiu, Jiasheng Li, Yikai Yuan, Liang Xu, Xinrui Ding (Supervisor). Solid–Liquid Hybrid‐State Organic Lens for Highly Efficient Deep Ultraviolet Light‐Emitting Diodes[J]. **Advanced Photonics Research**, 2022, 3(5): 2100211.<https://doi.org/10.1002/adpr.202100211>(#ref4)<br>
 5. Zongtao Li (Supervisor), Jiexin Li, **Zihao Deng**, Jiayong Liang, Jiasheng Li. Unraveling the origin of low optical efficiency for quantum dot white light-emitting diodes from the perspective of aggregation-induced scattering effect[J]. **IEEE Transactions on Electron Devices**, 2021, 68(4): 1738-1745.<https://doi.org.10.1109/TED.2021.3060698>(#ref5)<br>
 6. Zongtao Li (Supervisor), Jiexin Li, Jiasheng Li, **Zihao Deng**, Yuehua Deng. Scattering effect on optical performance of quantum dot white light-emitting diodes incorporating SiO₂ nanoparticles[J]. **IEEE Journal of Quantum Electronics**, 2020, 56(3): 1-9.<https://doi.org.10.1109/JQE.2020.2986018>(#ref6)<br>
-7. **Zihao Deng**, Jiexin Li, Jiayong Liang, Jiayi Li, Jiasheng Li, Xinrui Ding (Supervisor), Zongtao Li (Supervisor). Solid-liquid mixing-state organic lenses for deep-ultraviolet light-emitting diodes to enhance the light-extraction efficiency[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.<https://doi.org.10.1109/ICEPT52650.2021.9568078>(#ref7)<br>
-8. Jiayong Liang, Jiexin Li, **Zihao Deng**, Yihua Qiu, Zongtao Li (Supervisor), Jiasheng Li. Enhanced Optical Performance and Thermal Stability of Quantum Dot Converters for Laser Source[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.<https://doi.org.10.1109/ICEPT52650.2021.9567922>(#ref8)<br>
+7. **Zihao Deng**, Jiexin Li, Jiayong Liang, Jiayi Li, Jiasheng Li, Xinrui Ding (Supervisor), Zongtao Li (Supervisor). Solid-liquid mixing-state organic lenses for deep-ultraviolet light-emitting diodes to enhance the light-extraction efficiency[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.[10.1109/ICEPT52650.2021.9568078](https://ieeexplore.ieee.org/abstract/document/9568078)(#ref7)<br>
+8. Jiayong Liang, Jiexin Li, **Zihao Deng**, Yihua Qiu, Zongtao Li (Supervisor), Jiasheng Li. Enhanced Optical Performance and Thermal Stability of Quantum Dot Converters for Laser Source[C]//**2021 22nd International Conference on Electronic Packaging Technology (ICEPT)**. IEEE, 2021: 1-4.[10.1109/ICEPT52650.2021.9567922](https://ieeexplore.ieee.org/abstract/document/9567922)(#ref8)<br>
 
 ## 🏃‍♂‍Extracurricular Activities
-- **2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology @ School of Electronic Science and Engineering, Xiamen University, Xiamen China (_03/2021 – 09/2021_)**
+**2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology @ School of Electronic Science and Engineering, Xiamen University, Xiamen China (_03/2021 – 09/2021_)**
+- Gave an oral presentation on the topic of solid-liquid mixing-state organic lenses for improving the efficiency of DUV-LEDs light extraction.
+- Published an article[8] based on the content of the report, which was indexed by Engineering Index (EI).
+
+**“Challenge Cup” College Students’ Extracurricular Academic and Technological Contests @ South China University of Technology**
+- Developed a fluorescence probe synthesis technology based on porous composite structure microfluidic chips used for efficient detection of heavy metal ions in water, ensuring high quantum yield and high synthesis speed of carbon dots.
+- Designed microchannel structure, synthetized capillary porous structure composite, and integrated detection equipment for final assembly.
+- Proposed a new functional structure for high-power laser car lights, focusing on the core application of feature signal transmission between vehicles, which improved both the thermal stability of the laser lighting and the optical performance of fluorescent antennas.
+- Won the 1<sup>st</sup> prize of 16<sup>th</sup> Guangdong Challenge Cup Contest and the 2<sup>nd</sup> prize of 18<sup>th</sup> South China University of Technology Challenge Cup Contest.
+
+## 🛠️Project Experiences
+- **Chief Investigator** (1<sup>st</sup> rank): South China University of Technology Hundred Steps Ladder Climbing Plan Program, “The structural design of an LCD photopolymerization 3D printing system using local dimming technology.”, ￥10,000, 2023-present.
+- **Chief Investigator** (1<sup>st</sup> rank): Guangdong Province College Student Innovation and Entrepreneurship Training Program, “Research on Quantum Dot Photothermal Coupling Design and Centrifuge Packaging Technology for White Light LEDs”, ￥5,000, 2020-2021.
+- Basic Research on the Design and Manufacture of Micro LED Multi-scale Waveguide structure for Quantum Dot Pixels, (Basic and Applied Basic Research Fund of Guangdong Province), On-going, Participant.
+- Co-investigator (2<sup>nd</sup> rank): Cultivation of the Guangdong College Students Scientific and Technological Innovation Grant, “Basic Research on Quantum Dot Pixel Structure Composite Manufacturing of Micro LED Devices”, ￥10,000, 2021-2022.
+
+## 💫Self-comment
+
 
 [1]: #id-ref1
 [2]: #id-ref2
