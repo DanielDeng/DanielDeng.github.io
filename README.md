@@ -1,4 +1,4 @@
-![image](https://github.com/DanielDeng/DanielDeng.github.io/assets/171467037/a881647c-60ca-489b-bb33-9e0a8b2aaaeb)# Curriculum Vitae
+# Curriculum Vitae
 
 I am a postgraduate student at [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), in the Advanced Manufacturing Group for Functional Structure. I received my bachelor's degree from SCUT, and I was research intern in [Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd](https://www.nationstar.com/).
 Supervisor: [Prof. Zongtao Li](https://www2.scut.edu.cn/smae/2018/0523/c21153a302382/page.htm), [Prof. Xinrui Ding](https://www2.scut.edu.cn/smae/2019/0507/c21153a317165/page.htm) and Dr. Jiasheng Li.
@@ -17,7 +17,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 
 ![AAM](/assets/AAM.png)<br>
 <div style="text-align: center;">Optical performances and micro-LED display application.</div>
-
+<br>
 
 **Improvement of Optical Performance of Deep Ultraviolet LED devices @ South China University of Techonology (_09/2020 - Present_)**
 - Developed solid-liquid hybrid state organic lenses used for deep ultraviolet LEDs whose crossed-link network guarantee a high transmittance rate and excellent deep-UV resistance, achieving a **52.5%** enhancement in radiant power compared to conventional quartz lens.
@@ -27,7 +27,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 
 ![lens](/assets/SLHS lens.png)<br>
 <div style="text-align: center;">Fabrication method and high DUV transparency of Solid-liquid Hybrid-state composites.</div>
-
+<br>
 
 **Optical Effects and Mechanisms related to Quantum Dots @ South China University of Techonology (_04/2020 – Present_)**
 - Proposed an optical absorption heterogeneity strategy to boost the photoluminescence intensity of QD thin films at high excitation state, a record-high luminous efficiency per unit thickness of **1600 lm W<sup>-1</sup>mm<sup>-1</sup>** was achieved.
@@ -37,7 +37,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 
 ![AIS](/assets/AIS.png)<br>
 <div style="text-align: center;">Analysis of Aggregation-Induced Scattering Effect </div>
-
+<br>
 
 **Optical Sensing Technology for Soft Robotics @ South China University of Techonology (_07/2023 – Present_)**
 - Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
@@ -74,7 +74,7 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 ## 🏃‍♂‍Extracurricular Activities
 **2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology @ School of Electronic Science and Engineering, Xiamen University, Xiamen China (_03/2021 – 09/2021_)**
 - Gave an oral presentation on the topic of solid-liquid mixing-state organic lenses for improving the efficiency of DUV-LEDs light extraction.
-- Published an article[8] based on the content of the report, which was indexed by Engineering Index (EI).
+- Published an article<sup>[8](#ref8)</sup> based on the content of the report, which was indexed by Engineering Index (EI).
 
 **“Challenge Cup” College Students’ Extracurricular Academic and Technological Contests @ South China University of Technology**
 - Developed a fluorescence probe synthesis technology based on porous composite structure microfluidic chips used for efficient detection of heavy metal ions in water, ensuring high quantum yield and high synthesis speed of carbon dots.
@@ -88,7 +88,8 @@ Research Interests: Optical sensing technology; Intelligent Manufacturing; Light
 - Basic Research on the Design and Manufacture of Micro LED Multi-scale Waveguide structure for Quantum Dot Pixels, (Basic and Applied Basic Research Fund of Guangdong Province), On-going, Participant.
 - Co-investigator (2<sup>nd</sup> rank): Cultivation of the Guangdong College Students Scientific and Technological Innovation Grant, “Basic Research on Quantum Dot Pixel Structure Composite Manufacturing of Micro LED Devices”, ￥10,000, 2021-2022.
 
-## 💫Self-comment
+## 💫Self-Assessment
+I am a fervent explorer and researcher, undeterred by obstacles. My boundless enthusiasm and perseverance are the driving forces that help me conquer challenging tasks.
 
 <a href="https://clustrmaps.com/site/1c06v"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=23yGzAX_v8gLc-ndtQIx6Exgh2IawomRU6vKbrIRWTw&cl=ffffff" /></a>
 
