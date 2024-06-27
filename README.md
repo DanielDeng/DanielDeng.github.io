@@ -5,7 +5,7 @@ Supervisor: [Prof. Zongtao Li](https://www2.scut.edu.cn/smae/2018/0523/c21153a30
 
 Research Interests: Optical sensing technology; Intelligent Manufacturing; Light management of optoelectronic devices; Soft Robotics
 
-[Research gate link](https://www.researchgate.net/profile/Zi-Hao-Deng)
+Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
 
 ## 🎓Education							       		
   - Master of Mechanical Engineering	| South China University of Technology (09/2022 - 07/2025 (Expected))	 			        		
