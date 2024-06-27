@@ -1,11 +1,11 @@
 # Curriculum Vitae
 
-I am a postgraduate student at [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), in the Advanced Manufacturing Group for Functional Structure. I received my bachelor's degree from SCUT, and I was research intern in [Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd](https://www.nationstar.com/).
+I am a postgraduate student at [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), in the [Advanced Manufacturing Group for Functional Structure](https://www2.scut.edu.cn/aol/main.htm). I received my bachelor's degree from SCUT, and I was research intern in [Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd](https://www.nationstar.com/).
 Supervisor: [Prof. Zongtao Li](https://www2.scut.edu.cn/smae/2018/0523/c21153a302382/page.htm), [Prof. Xinrui Ding](https://www2.scut.edu.cn/smae/2019/0507/c21153a317165/page.htm) and Dr. Jiasheng Li.
 
 Research Interests: Optical sensing technology; Intelligent Manufacturing; Light management of optoelectronic devices; Soft Robotics
 
-[Research gate](https://www.researchgate.net/profile/Zi-Hao-Deng)
+[Research gate link](https://www.researchgate.net/profile/Zi-Hao-Deng)
 
 ## 🎓Education							       		
   - Master of Mechanical Engineering	| South China University of Technology (09/2022 - 07/2025 (Expected))	 			        		
