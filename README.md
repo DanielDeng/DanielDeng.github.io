@@ -38,7 +38,7 @@ Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
 - Contributed to a publication<sup>[5](#ref5)</sup> in **_IEEE TRANSACTIONS ON ELECTRON DEVICES_** and a publication<sup>[6](#ref6)</sup> in **_IEEE JOURNAL OF QUANTUM ELECTRONICS_**, while a manuscript draft<sup>[2](#ref2)</sup> submitted to **_Flexmat_** is currently under review.
 
 ![AIS](/assets/AIS.png)<br>
-<div style="text-align: center;">Analysis of Aggregation-Induced Scattering Effect </div>
+<div style="text-align: center;">Analysis of Aggregation-Induced Scattering Effect. </div>
 <br>
 
 **Optical Sensing Technology for Soft Robotics based on Perovskite-Fiber @ South China University of Techonology (_07/2023 – Present_)**
