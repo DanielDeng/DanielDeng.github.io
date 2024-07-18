@@ -3,7 +3,7 @@
 I am a postgraduate student at [South China University of Technology (SCUT)](https://www.scut.edu.cn/new/), in the [Advanced Manufacturing Group for Functional Structure](https://www2.scut.edu.cn/aol/main.htm). I received my bachelor's degree from SCUT, and I was research intern in [Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd](https://www.nationstar.com/).
 Supervisor: [Prof. Zongtao Li](https://www2.scut.edu.cn/smae/2018/0523/c21153a302382/page.htm), [Prof. Xinrui Ding](https://www2.scut.edu.cn/smae/2019/0507/c21153a317165/page.htm) and Dr. Jiasheng Li.
 
-Research Interests: Optical sensing technology; Intelligent Manufacturing; Light management of optoelectronic devices; Soft Robotics
+Research Interests: Optical Sensing Technology; Smartt Manufacturing; Light Management of Optoelectronic Devices; Soft Robotics
 
 Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
 
@@ -41,9 +41,9 @@ Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
 <div style="text-align: center;">Analysis of Aggregation-Induced Scattering Effect </div>
 <br>
 
-**Optical Sensing Technology for Soft Robotics @ South China University of Techonology (_07/2023 – Present_)**
+**Optical Sensing Technology for Soft Robotics based on Perovskite-Fiber @ South China University of Techonology (_07/2023 – Present_)**
 - Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
-- Analyzed the spectra of soft robots in various states, extracted key feature points such as peak wavelength and intensity, and achieved recognition of optical features-motion states.
+- Fabricated perovskite one-dimensional fibers onto insulating optical fibers using the electrospinning technique, enabling the creation of high-performance optical coatings while simultaneously isolating moisture and oxygen to enhance stability.
 
 ## 💻Internship
 **Prospective Technology for LED Development @ Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd (_07/2023 – 07/2024_)**
@@ -53,7 +53,7 @@ Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
 - Developed details optical simulation guidelines which were used to instruct engineers in using relevant softwares for theoretical analysis and structural optimaztion.
 - Conducted a thermal analysis to investigate the reason of invalid gold wires in a specific automotive-LED, and a feasible solution at the structural level without additional cost was provided.
 - Solved the problem of thermal concentration in the third-generation semiconductor GaN devices by separating islands of them.
-- Produced a multitude of 2D and 3D schematics for an array of LED products.
+- Produced a multitude of 2D and 3D schematics for various LED products.
 
 ## 🏅Awards and Honors
 - **2<sup>nd</sup> prize** of 18<sup>th</sup> South China University of Technology Challenge Cup
