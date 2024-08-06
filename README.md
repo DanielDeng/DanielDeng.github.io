@@ -41,7 +41,7 @@ Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
 <div style="text-align: center;">Analysis of Aggregation-Induced Scattering Effect. </div>
 <br>
 
-**Optical Sensing Technology for Soft Robotics based on Perovskite-Fiber @ South China University of Techonology (_07/2023 – Present_)**
+**Spine-Inspired Multidimensional Bending Soft Optical Waveguide Sensor @ South China University of Techonology (_07/2023 – Present_)**
 - Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
 - Fabricated perovskite one-dimensional fibers onto insulating optical fibers using the electrospinning technique, enabling the creation of high-performance optical coatings while simultaneously isolating moisture and oxygen to enhance stability.
 
