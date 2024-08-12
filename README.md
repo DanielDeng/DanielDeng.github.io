@@ -12,7 +12,12 @@ Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
   - Bachelor of Mechanical Engineering  | South China University of Technology (09/2018 - 07/2022)
 
 ## 💡Research Experience
-**High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
+**Spine-Inspired Multidimensional Bending Soft Optical Waveguide Sensor @ South China University of Techonology (_07/2023 – Present_)**
+- Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
+- Fabricated perovskite one-dimensional fibers onto insulating optical fibers using the electrospinning technique, enabling the creation of high-performance optical coatings while simultaneously isolating moisture and oxygen to enhance stability.
+<br>
+
+- **High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
 - Proposed a magnetic-vibration composite stamping process to prepare a high-aspect-ratio and high-transmittance quantum dot (QD) pixel frame, which led to a **4.5-fold** increasment in the maximum photoluminescence intensity of pixelated QD converter.
 - Assembled micro- and nanoscale waveguide structures through inkjet printing and vacuum deposition, obtaining a high-resolution color converter with optical absorption heterogeneity that can be used for high optical efficiency optoelectronic devices.
 - Contributed to a publication<sup>[3](#ref3)</sup> in **_Journal of Materials Processing Technology_** and a conference paper<sup>[8](#ref8)</sup> in 2021 22<sup>nd</sup> International Conference on Electronic Packaging Technology (**_ICEPT_**), while a manuscript draft<sup>[2](#ref2)</sup> submitted to **_Flexmat_** is currently under review.
@@ -40,10 +45,6 @@ Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
 ![AIS](/assets/AIS.png)<br>
 <div style="text-align: center;">Analysis of Aggregation-Induced Scattering Effect. </div>
 <br>
-
-**Spine-Inspired Multidimensional Bending Soft Optical Waveguide Sensor @ South China University of Techonology (_07/2023 – Present_)**
-- Introduced the use of three different colored optical fibers for proprioception as the basis for closed-up loop feedback of soft robotics, which is unaffected by electromagnetic interference, achieving bending detection in all directions and angles.
-- Fabricated perovskite one-dimensional fibers onto insulating optical fibers using the electrospinning technique, enabling the creation of high-performance optical coatings while simultaneously isolating moisture and oxygen to enhance stability.
 
 ## 💻Internship
 **Prospective Technology for LED Development @ Guangdong Provincial Key Laboratory of Semiconductor Micro Display, Foshan Nationstar Optoelectronics Company Ltd (_07/2023 – 07/2024_)**
