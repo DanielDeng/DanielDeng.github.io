@@ -16,6 +16,9 @@ Research gate: <https://www.researchgate.net/profile/Zi-Hao-Deng>
 - Developed a multi-dimensional optical waveguide bending sensor with an air-gap structure, achieving 0.0811 dB/° sensitivity and ~130 ms response via refractive index modulation and triple-wavelength fluorescence conversion.
 - Fabricated wavelength-tunable perovskite-PVDF fluorescent converters (CsPbX3) via optimized electrospinning, enabling multi-dimensional signal generation through bandgap engineering.
 - Achieved 99.81% multi-dimensional bending recognition accuracy (angle/direction) using a random forest algorithm, validated by 1000-cycle stability tests and optomechanical characterization.
+![fabrication](/assets/fabrication.tif)<br>
+<div style="text-align: center;">Fabrication of Fluorescent Fiber-Based Optical Convertor.</div>
+<br>
 <br>
 
 **High Resolution Micro Display Manufacturing Technology @ South China University of Techonology (_03/2021 – Present_)**
